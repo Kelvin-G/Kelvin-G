@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Kelvin Gama
+## Oiii! Eu sou o Kelvin Gama
  
 - 👀 Hoje trabalho com back-end
 - 🌱 Estudando Python e HTML
